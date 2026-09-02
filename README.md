@@ -1,1 +1,0 @@
-# Praktkum-Big-Data
